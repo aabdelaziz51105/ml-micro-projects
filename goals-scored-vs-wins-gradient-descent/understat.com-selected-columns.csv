@@ -1,0 +1,685 @@
+,team,wins,scored
+2014,Barcelona,30,110
+2014,Real Madrid,30,118
+2014,Atletico Madrid,23,67
+2014,Valencia,22,70
+2014,Sevilla,23,71
+2014,Villarreal,16,48
+2014,Athletic Club,15,42
+2014,Celta Vigo,13,47
+2014,Malaga,14,42
+2014,Rayo Vallecano,15,46
+2014,Espanyol,13,47
+2014,Real Sociedad,11,44
+2014,Elche,11,35
+2014,Getafe,10,33
+2014,Levante,9,34
+2014,Deportivo La Coruna,7,35
+2014,Granada,7,29
+2014,Eibar,9,34
+2014,Almeria,8,35
+2014,Cordoba,3,22
+2015,Barcelona,29,112
+2015,Real Madrid,28,110
+2015,Atletico Madrid,28,63
+2015,Villarreal,18,44
+2015,Athletic Club,18,58
+2015,Celta Vigo,17,51
+2015,Sevilla,14,51
+2015,Malaga,12,38
+2015,Real Sociedad,13,45
+2015,Real Betis,11,34
+2015,Valencia,11,46
+2015,Las Palmas,12,45
+2015,Espanyol,12,40
+2015,Eibar,11,49
+2015,Deportivo La Coruna,8,45
+2015,Sporting Gijon,10,40
+2015,Granada,10,46
+2015,Rayo Vallecano,9,52
+2015,Getafe,9,37
+2015,Levante,8,37
+2016,Real Madrid,29,106
+2016,Barcelona,28,116
+2016,Atletico Madrid,23,70
+2016,Sevilla,21,69
+2016,Villarreal,19,56
+2016,Real Sociedad,19,59
+2016,Athletic Club,19,53
+2016,Espanyol,15,49
+2016,Alaves,14,41
+2016,Eibar,15,56
+2016,Malaga,12,49
+2016,Valencia,13,56
+2016,Celta Vigo,13,53
+2016,Las Palmas,10,53
+2016,Real Betis,10,41
+2016,Deportivo La Coruna,8,43
+2016,Leganes,8,36
+2016,Sporting Gijon,7,42
+2016,Osasuna,4,40
+2016,Granada,4,30
+2017,Barcelona,28,99
+2017,Atletico Madrid,23,58
+2017,Real Madrid,22,94
+2017,Valencia,22,65
+2017,Villarreal,18,57
+2017,Real Betis,18,60
+2017,Sevilla,17,49
+2017,Getafe,15,42
+2017,Eibar,14,44
+2017,Girona,14,50
+2017,Celta Vigo,13,59
+2017,Espanyol,12,36
+2017,Real Sociedad,14,66
+2017,Alaves,15,40
+2017,Levante,11,44
+2017,Athletic Club,10,41
+2017,Leganes,12,34
+2017,Deportivo La Coruna,6,38
+2017,Las Palmas,5,24
+2017,Malaga,5,24
+2018,Barcelona,26,90
+2018,Atletico Madrid,22,55
+2018,Real Madrid,21,63
+2018,Valencia,15,51
+2018,Sevilla,17,62
+2018,Getafe,15,48
+2018,Espanyol,14,48
+2018,Athletic Club,13,41
+2018,Real Sociedad,13,45
+2018,Alaves,13,39
+2018,Real Betis,14,44
+2018,Eibar,11,46
+2018,Leganes,11,37
+2018,Levante,11,59
+2018,Villarreal,10,49
+2018,Celta Vigo,10,53
+2018,Real Valladolid,10,32
+2018,Girona,9,37
+2018,SD Huesca,7,43
+2018,Rayo Vallecano,8,41
+2019,Real Madrid,26,70
+2019,Barcelona,25,86
+2019,Sevilla,19,54
+2019,Atletico Madrid,18,51
+2019,Villarreal,18,63
+2019,Real Sociedad,16,56
+2019,Granada,16,52
+2019,Getafe,14,43
+2019,Valencia,14,46
+2019,Osasuna,13,46
+2019,Athletic Club,13,41
+2019,Levante,14,47
+2019,Real Valladolid,9,32
+2019,Eibar,11,39
+2019,Real Betis,10,48
+2019,Alaves,10,34
+2019,Celta Vigo,7,37
+2019,Leganes,8,30
+2019,Mallorca,9,40
+2019,Espanyol,5,27
+2014,Chelsea,26,73
+2014,Manchester City,24,83
+2014,Arsenal,22,71
+2014,Manchester United,20,62
+2014,Tottenham,19,58
+2014,Liverpool,18,52
+2014,Southampton,18,54
+2014,Swansea,16,46
+2014,Stoke,15,48
+2014,Crystal Palace,13,47
+2014,West Ham,12,44
+2014,Everton,12,48
+2014,West Bromwich Albion,11,38
+2014,Leicester,11,46
+2014,Newcastle United,10,40
+2014,Aston Villa,10,31
+2014,Sunderland,7,31
+2014,Hull,8,33
+2014,Burnley,7,28
+2014,Queens Park Rangers,8,42
+2015,Leicester,23,68
+2015,Arsenal,20,65
+2015,Tottenham,19,69
+2015,Manchester United,19,49
+2015,Manchester City,19,71
+2015,Southampton,18,59
+2015,West Ham,16,65
+2015,Liverpool,16,63
+2015,Stoke,14,41
+2015,Chelsea,12,59
+2015,Swansea,12,42
+2015,Everton,11,59
+2015,Watford,12,40
+2015,West Bromwich Albion,10,34
+2015,Crystal Palace,11,39
+2015,Bournemouth,11,45
+2015,Sunderland,9,48
+2015,Newcastle United,9,44
+2015,Norwich,9,39
+2015,Aston Villa,3,27
+2016,Chelsea,30,85
+2016,Tottenham,26,86
+2016,Manchester City,23,80
+2016,Liverpool,22,78
+2016,Arsenal,23,77
+2016,Manchester United,18,54
+2016,Everton,17,62
+2016,Bournemouth,12,55
+2016,Southampton,12,41
+2016,West Ham,12,47
+2016,West Bromwich Albion,12,43
+2016,Stoke,11,41
+2016,Leicester,12,48
+2016,Crystal Palace,12,50
+2016,Swansea,12,45
+2016,Watford,11,40
+2016,Burnley,11,39
+2016,Hull,9,37
+2016,Middlesbrough,5,27
+2016,Sunderland,6,29
+2017,Manchester City,32,106
+2017,Manchester United,25,68
+2017,Tottenham,23,74
+2017,Liverpool,21,84
+2017,Chelsea,21,62
+2017,Arsenal,19,74
+2017,Burnley,14,36
+2017,Everton,13,44
+2017,Leicester,12,56
+2017,Crystal Palace,11,45
+2017,Bournemouth,11,45
+2017,Newcastle United,12,39
+2017,West Ham,10,48
+2017,Watford,11,44
+2017,Brighton,9,34
+2017,Huddersfield,9,28
+2017,Southampton,7,37
+2017,Stoke,7,35
+2017,Swansea,8,28
+2017,West Bromwich Albion,6,31
+2018,Manchester City,32,95
+2018,Liverpool,30,89
+2018,Chelsea,21,63
+2018,Tottenham,23,67
+2018,Arsenal,21,73
+2018,Manchester United,19,65
+2018,Wolverhampton Wanderers,16,47
+2018,Everton,15,54
+2018,West Ham,15,52
+2018,Leicester,15,51
+2018,Watford,14,52
+2018,Crystal Palace,14,51
+2018,Newcastle United,12,42
+2018,Bournemouth,13,56
+2018,Burnley,11,45
+2018,Southampton,9,45
+2018,Brighton,9,35
+2018,Cardiff,10,34
+2018,Fulham,7,34
+2018,Huddersfield,3,22
+2019,Liverpool,32,85
+2019,Manchester City,26,102
+2019,Manchester United,18,66
+2019,Chelsea,20,69
+2019,Leicester,18,67
+2019,Tottenham,16,61
+2019,Wolverhampton Wanderers,15,51
+2019,Arsenal,14,56
+2019,Burnley,15,43
+2019,Sheffield United,14,39
+2019,Southampton,15,51
+2019,Everton,13,44
+2019,Newcastle United,11,38
+2019,Crystal Palace,11,31
+2019,Brighton,9,39
+2019,West Ham,10,49
+2019,Aston Villa,9,41
+2019,Watford,8,36
+2019,Bournemouth,9,40
+2019,Norwich,5,26
+2014,Bayern Munich,25,80
+2014,Wolfsburg,20,72
+2014,Borussia M.Gladbach,19,53
+2014,Bayer Leverkusen,17,62
+2014,Augsburg,15,43
+2014,Schalke 04,13,42
+2014,Borussia Dortmund,13,47
+2014,Hoffenheim,12,49
+2014,Werder Bremen,11,50
+2014,Eintracht Frankfurt,11,56
+2014,FC Cologne,9,34
+2014,Mainz 05,9,45
+2014,Hannover 96,9,40
+2014,VfB Stuttgart,9,42
+2014,Hamburger SV,9,25
+2014,Hertha Berlin,9,36
+2014,Freiburg,7,36
+2014,Paderborn,7,31
+2015,Bayern Munich,28,80
+2015,Borussia Dortmund,24,82
+2015,Bayer Leverkusen,18,56
+2015,Borussia M.Gladbach,17,67
+2015,Schalke 04,15,51
+2015,Mainz 05,14,46
+2015,Hertha Berlin,14,42
+2015,Wolfsburg,12,47
+2015,FC Cologne,10,38
+2015,Hamburger SV,11,40
+2015,Ingolstadt,10,33
+2015,Darmstadt,9,38
+2015,Werder Bremen,10,50
+2015,Augsburg,9,42
+2015,Hoffenheim,9,39
+2015,Eintracht Frankfurt,9,34
+2015,VfB Stuttgart,9,50
+2015,Hannover 96,7,31
+2016,Bayern Munich,25,89
+2016,RasenBallsport Leipzig,20,66
+2016,Borussia Dortmund,18,72
+2016,Hoffenheim,16,64
+2016,Hertha Berlin,15,43
+2016,FC Cologne,12,51
+2016,Freiburg,14,42
+2016,Werder Bremen,13,61
+2016,Borussia M.Gladbach,12,45
+2016,Schalke 04,11,45
+2016,Eintracht Frankfurt,11,36
+2016,Bayer Leverkusen,11,53
+2016,Augsburg,9,35
+2016,Hamburger SV,10,33
+2016,Mainz 05,10,44
+2016,Wolfsburg,10,34
+2016,Ingolstadt,8,36
+2016,Darmstadt,7,28
+2017,Bayern Munich,27,92
+2017,Schalke 04,18,53
+2017,Bayer Leverkusen,15,58
+2017,Hoffenheim,15,66
+2017,Borussia Dortmund,15,64
+2017,RasenBallsport Leipzig,15,57
+2017,VfB Stuttgart,15,36
+2017,Eintracht Frankfurt,14,45
+2017,Borussia M.Gladbach,13,47
+2017,Hertha Berlin,10,43
+2017,Werder Bremen,10,37
+2017,Augsburg,10,43
+2017,Hannover 96,10,44
+2017,Mainz 05,9,38
+2017,Freiburg,8,32
+2017,Wolfsburg,6,36
+2017,Hamburger SV,8,29
+2017,FC Cologne,5,35
+2018,Bayern Munich,24,88
+2018,Borussia Dortmund,23,81
+2018,RasenBallsport Leipzig,19,63
+2018,Bayer Leverkusen,18,69
+2018,Borussia M.Gladbach,16,55
+2018,Wolfsburg,16,62
+2018,Eintracht Frankfurt,15,60
+2018,Werder Bremen,14,58
+2018,Hoffenheim,13,70
+2018,Fortuna Duesseldorf,13,49
+2018,Hertha Berlin,11,49
+2018,Mainz 05,12,46
+2018,Freiburg,8,46
+2018,Schalke 04,8,37
+2018,Augsburg,8,51
+2018,VfB Stuttgart,7,32
+2018,Hannover 96,5,31
+2018,Nuernberg,3,26
+2019,Bayern Munich,26,100
+2019,Borussia Dortmund,21,84
+2019,RasenBallsport Leipzig,18,81
+2019,Borussia M.Gladbach,20,66
+2019,Bayer Leverkusen,19,61
+2019,Hoffenheim,15,53
+2019,Wolfsburg,13,48
+2019,Freiburg,13,48
+2019,Eintracht Frankfurt,13,59
+2019,Hertha Berlin,11,48
+2019,Union Berlin,12,41
+2019,Schalke 04,9,38
+2019,Mainz 05,11,44
+2019,Augsburg,9,45
+2019,FC Cologne,10,51
+2019,Werder Bremen,8,42
+2019,Fortuna Duesseldorf,6,36
+2019,Paderborn,4,37
+2014,Juventus,26,72
+2014,Roma,19,54
+2014,Lazio,21,71
+2014,Fiorentina,18,61
+2014,Napoli,18,70
+2014,Genoa,16,62
+2014,Sampdoria,13,48
+2014,Inter,14,59
+2014,Torino,14,48
+2014,AC Milan,13,56
+2014,Palermo,12,53
+2014,Sassuolo,12,49
+2014,Verona,11,49
+2014,Chievo,10,28
+2014,Empoli,8,46
+2014,Udinese,10,43
+2014,Atalanta,7,38
+2014,Cagliari,8,48
+2014,Parma,6,33
+2014,Cesena,4,36
+2015,Juventus,29,75
+2015,Napoli,25,80
+2015,Roma,23,83
+2015,Inter,20,50
+2015,Fiorentina,18,60
+2015,Sassuolo,16,49
+2015,AC Milan,15,49
+2015,Lazio,15,52
+2015,Chievo,13,43
+2015,Genoa,13,45
+2015,Empoli,12,40
+2015,Atalanta,11,41
+2015,Torino,12,52
+2015,Bologna,11,33
+2015,Sampdoria,10,48
+2015,Palermo,10,38
+2015,Udinese,10,35
+2015,Carpi,9,37
+2015,Frosinone,8,35
+2015,Verona,5,34
+2016,Juventus,29,77
+2016,Roma,28,90
+2016,Napoli,26,94
+2016,Atalanta,21,62
+2016,Lazio,21,74
+2016,AC Milan,18,57
+2016,Inter,19,72
+2016,Fiorentina,16,63
+2016,Torino,13,71
+2016,Sassuolo,14,60
+2016,Sampdoria,12,49
+2016,Cagliari,14,55
+2016,Udinese,12,47
+2016,Chievo,12,43
+2016,Bologna,11,40
+2016,Genoa,9,38
+2016,Crotone,9,34
+2016,Empoli,8,29
+2016,Palermo,6,33
+2016,Pescara,2,35
+2017,Juventus,30,86
+2017,Napoli,28,77
+2017,Roma,23,61
+2017,Inter,20,66
+2017,Lazio,21,89
+2017,AC Milan,18,56
+2017,Atalanta,16,57
+2017,Fiorentina,16,54
+2017,Sampdoria,16,56
+2017,Torino,13,54
+2017,Sassuolo,11,29
+2017,Genoa,11,33
+2017,Udinese,12,48
+2017,Chievo,10,36
+2017,Bologna,11,40
+2017,Cagliari,11,33
+2017,SPAL 2013,8,39
+2017,Crotone,9,40
+2017,Verona,7,30
+2017,Benevento,6,33
+2018,Juventus,28,70
+2018,Napoli,24,74
+2018,Atalanta,20,77
+2018,Inter,20,57
+2018,AC Milan,19,55
+2018,Roma,18,66
+2018,Torino,16,52
+2018,Lazio,17,56
+2018,Sampdoria,15,60
+2018,Bologna,11,48
+2018,Sassuolo,9,53
+2018,Udinese,11,39
+2018,SPAL 2013,11,44
+2018,Fiorentina,8,47
+2018,Cagliari,10,36
+2018,Parma Calcio 1913,10,41
+2018,Genoa,8,39
+2018,Empoli,10,51
+2018,Frosinone,5,29
+2018,Chievo,2,25
+2019,Juventus,26,76
+2019,Inter,24,81
+2019,Lazio,24,79
+2019,Atalanta,23,98
+2019,Roma,21,77
+2019,AC Milan,19,63
+2019,Napoli,18,61
+2019,Sassuolo,14,69
+2019,Verona,12,47
+2019,Fiorentina,11,48
+2019,Bologna,12,51
+2019,Parma Calcio 1913,13,52
+2019,Cagliari,11,52
+2019,Sampdoria,12,48
+2019,Udinese,11,36
+2019,Torino,11,45
+2019,Genoa,9,44
+2019,Lecce,9,49
+2019,Brescia,6,35
+2019,SPAL 2013,5,26
+2014,Paris Saint Germain,24,83
+2014,Lyon,22,72
+2014,Monaco,20,51
+2014,Marseille,21,76
+2014,Saint-Etienne,19,51
+2014,Bordeaux,17,47
+2014,Lille,16,43
+2014,Montpellier,16,46
+2014,Rennes,13,35
+2014,Guingamp,15,41
+2014,Nice,13,44
+2014,SC Bastia,12,37
+2014,Caen,12,54
+2014,Nantes,11,29
+2014,Reims,12,47
+2014,Lorient,12,44
+2014,Toulouse,12,43
+2014,Evian Thonon Gaillard,11,41
+2014,Metz,7,31
+2014,Lens,7,32
+2015,Paris Saint Germain,30,102
+2015,Lyon,19,67
+2015,Monaco,17,57
+2015,Nice,18,58
+2015,Lille,15,39
+2015,Saint-Etienne,17,42
+2015,Caen,16,39
+2015,Rennes,13,52
+2015,Angers,13,40
+2015,Bordeaux,12,50
+2015,SC Bastia,14,36
+2015,Montpellier,14,49
+2015,Nantes,12,33
+2015,Marseille,10,48
+2015,Lorient,11,47
+2015,Guingamp,11,47
+2015,Toulouse,9,45
+2015,Reims,10,44
+2015,GFC Ajaccio,8,37
+2015,Troyes,3,28
+2016,Monaco,30,107
+2016,Paris Saint Germain,27,83
+2016,Nice,22,63
+2016,Lyon,21,80
+2016,Marseille,17,57
+2016,Bordeaux,15,53
+2016,Nantes,14,40
+2016,Rennes,12,36
+2016,Saint-Etienne,12,41
+2016,Guingamp,14,46
+2016,Lille,13,40
+2016,Angers,13,40
+2016,Toulouse,10,37
+2016,Metz,11,39
+2016,Montpellier,10,48
+2016,Caen,10,36
+2016,Dijon,8,46
+2016,Lorient,10,44
+2016,Nancy,9,29
+2016,SC Bastia,8,29
+2017,Paris Saint Germain,29,108
+2017,Monaco,24,85
+2017,Lyon,23,87
+2017,Marseille,22,80
+2017,Rennes,16,50
+2017,Bordeaux,16,53
+2017,Saint-Etienne,15,47
+2017,Nice,15,53
+2017,Nantes,14,36
+2017,Montpellier,11,36
+2017,Dijon,13,55
+2017,Guingamp,12,48
+2017,Amiens,12,37
+2017,Angers,9,42
+2017,Lille,10,41
+2017,Caen,10,27
+2017,Strasbourg,9,44
+2017,Toulouse,9,38
+2017,Troyes,9,32
+2017,Metz,6,34
+2018,Paris Saint Germain,29,105
+2018,Lille,22,68
+2018,Lyon,21,70
+2018,Saint-Etienne,19,59
+2018,Marseille,18,60
+2018,Montpellier,15,53
+2018,Nice,15,30
+2018,Reims,13,39
+2018,Nimes,15,57
+2018,Rennes,13,55
+2018,Strasbourg,11,58
+2018,Nantes,13,48
+2018,Angers,10,44
+2018,Bordeaux,10,34
+2018,Toulouse,8,35
+2018,Amiens,9,31
+2018,Monaco,8,38
+2018,Dijon,9,31
+2018,Caen,7,29
+2018,Guingamp,5,28
+2019,Paris Saint Germain,22,75
+2019,Marseille,16,41
+2019,Rennes,15,38
+2019,Lille,15,35
+2019,Nice,11,41
+2019,Reims,10,26
+2019,Montpellier,11,35
+2019,Monaco,11,44
+2019,Lyon,11,42
+2019,Angers,11,28
+2019,Strasbourg,11,32
+2019,Nantes,11,28
+2019,Bordeaux,9,40
+2019,Metz,8,27
+2019,Brest,8,34
+2019,Dijon,7,27
+2019,Saint-Etienne,8,29
+2019,Nimes,7,29
+2019,Amiens,4,31
+2019,Toulouse,3,22
+2014,Zenit St. Petersburg,20,58
+2014,CSKA Moscow,19,67
+2014,FC Krasnodar,17,52
+2014,Dinamo Moscow,14,53
+2014,Rubin Kazan,13,39
+2014,Spartak Moscow,12,42
+2014,Lokomotiv Moscow,11,31
+2014,Mordovya,11,22
+2014,FK Akhmat,10,30
+2014,Kuban Krasnodar,8,32
+2014,Amkar,8,25
+2014,FC Ufa,7,26
+2014,Ural,9,31
+2014,FC Rostov,7,27
+2014,Torpedo Moscow,6,28
+2014,Arsenal Tula,7,20
+2015,CSKA Moscow,20,51
+2015,FC Rostov,19,41
+2015,Zenit St. Petersburg,17,61
+2015,FC Krasnodar,16,54
+2015,Spartak Moscow,15,48
+2015,Lokomotiv Moscow,14,43
+2015,FK Akhmat,11,35
+2015,Ural,10,39
+2015,Krylya Sovetov Samara,9,19
+2015,Rubin Kazan,9,33
+2015,Amkar,7,22
+2015,FC Ufa,6,25
+2015,Anzhi Makhachkala,6,28
+2015,Kuban Krasnodar,5,34
+2015,Dinamo Moscow,5,25
+2015,Mordovya,4,30
+2016,Spartak Moscow,22,46
+2016,CSKA Moscow,18,47
+2016,Zenit St. Petersburg,18,50
+2016,FC Krasnodar,12,40
+2016,FC Rostov,13,36
+2016,FK Akhmat,14,38
+2016,FC Ufa,12,22
+2016,Lokomotiv Moscow,10,39
+2016,Rubin Kazan,10,30
+2016,Amkar,8,25
+2016,Anzhi Makhachkala,7,24
+2016,Ural,8,24
+2016,FC Orenburg,7,25
+2016,Krylya Sovetov Samara,6,31
+2016,Arsenal Tula,7,18
+2016,Tom Tomsk,3,17
+2017,Lokomotiv Moscow,18,41
+2017,CSKA Moscow,17,49
+2017,Spartak Moscow,16,51
+2017,FC Krasnodar,16,46
+2017,Zenit St. Petersburg,14,46
+2017,FC Ufa,11,34
+2017,Arsenal Tula,12,35
+2017,Dinamo Moscow,10,29
+2017,FK Akhmat,10,30
+2017,Rubin Kazan,9,32
+2017,FC Rostov,9,27
+2017,Ural,8,31
+2017,Amkar,9,20
+2017,Anzhi Makhachkala,6,31
+2017,Tosno,6,23
+2017,SKA-Khabarovsk,2,16
+2018,Zenit St. Petersburg,20,57
+2018,Lokomotiv Moscow,16,45
+2018,FC Krasnodar,16,55
+2018,CSKA Moscow,14,46
+2018,Spartak Moscow,14,36
+2018,Arsenal Tula,12,40
+2018,FC Orenburg,12,39
+2018,FK Akhmat,11,28
+2018,FC Rostov,10,25
+2018,Ural,10,33
+2018,Rubin Kazan,7,24
+2018,Dinamo Moscow,6,28
+2018,Krylya Sovetov Samara,8,25
+2018,FC Ufa,5,24
+2018,Anzhi Makhachkala,5,13
+2018,FC Yenisey Krasnoyarsk,4,24
+2019,Zenit St. Petersburg,22,65
+2019,Lokomotiv Moscow,16,41
+2019,FC Krasnodar,14,49
+2019,CSKA Moscow,14,43
+2019,FC Rostov,12,45
+2019,Dinamo Moscow,11,27
+2019,Spartak Moscow,11,35
+2019,FC Ufa,8,22
+2019,Arsenal Tula,11,37
+2019,Rubin Kazan,8,18
+2019,Ural,9,36
+2019,PFC Sochi,8,40
+2019,FK Akhmat,7,27
+2019,Krylya Sovetov Samara,8,33
+2019,FC Tambov,9,37
+2019,FC Orenburg,7,28
