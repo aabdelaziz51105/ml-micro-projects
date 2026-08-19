@@ -1,2 +1,11 @@
+# macOS
 .DS_Store
+
+# Jupyter / JupyterLab local state
 .ipynb_checkpoints/
+.jupyter/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

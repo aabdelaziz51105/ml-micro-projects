@@ -4,8 +4,9 @@ Implementing cost function and batch gradient descent by hand — no library hel
 final comparison — to predict a football team's wins from goals scored across a season, then
 checking the result against `sklearn.linear_model.LinearRegression`.
 
-**Data:** season-level team stats (goals scored → wins), compiled by hand from
-[understat.com](https://understat.com/). 
+**Data:** `understat.com-selected-columns.csv` — season-level team stats (goals scored → wins),
+compiled by hand from [understat.com](https://understat.com/), whose xG and match data are the
+source for every figure in it. Predictor: goals scored across a season. Target: wins.
 
 **What was built from scratch:** the cost function, the gradient computation, and the batch
 gradient descent loop. `sklearn` is used only at the end, to check the answer.
