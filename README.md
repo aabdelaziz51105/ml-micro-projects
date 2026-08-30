@@ -14,5 +14,9 @@ practice a technique rather than to build a polished product.
 - [`player-age-vs-market-value/`](player-age-vs-market-value/) — polynomial regression on
   423,823 Transfermarkt valuations. A model that fits well can still predict nonsense
   *inside* the range of its own training data.
+- [`spam-classification-regularization/`](spam-classification-regularization/) — logistic
+  regression on 4,601 emails, sweeping the regularization strength across eight orders of
+  magnitude. The first proof that scaling changes the model was an artifact of a confound;
+  fixing the comparison deleted it and forced a quieter one.
 
 More will be added as they're finished.
