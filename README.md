@@ -19,4 +19,9 @@ practice a technique rather than to build a polished product.
   magnitude. The first proof that scaling changes the model was an artifact of a confound;
   fixing the comparison deleted it and forced a quieter one.
 
+- [`company-revenue-support-vector-regression/`](company-revenue-support-vector-regression/) —
+  support vector regression on the 2022 Fortune 1000. Sweeping the ε-insensitive tube from 796
+  support vectors down to zero, and a plot that reads as underfitting while the model is
+  memorising its training set.
+
 More will be added as they're finished.
